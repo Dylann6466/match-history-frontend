@@ -1,0 +1,24 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="dylan">
+    <words>
+      <w>centerview</w>
+      <w>detailview</w>
+      <w>footerview</w>
+      <w>gamemap</w>
+      <w>gamemapcontroller</w>
+      <w>gamemapgrid</w>
+      <w>gamemapview</w>
+      <w>gamemapviewmodel</w>
+      <w>hbox</w>
+      <w>headerview</w>
+      <w>homeview</w>
+      <w>homeviewcontroller</w>
+      <w>homeviewmodel</w>
+      <w>mainview</w>
+      <w>mainviewcontroller</w>
+      <w>mainviewmodel</w>
+      <w>viewmodel</w>
+      <w>xtype</w>
+    </words>
+  </dictionary>
+</component>
